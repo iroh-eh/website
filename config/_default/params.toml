@@ -58,7 +58,7 @@ show_categories = true
 [metadata]
 keywords = ["Boilerplate", "Hugo"]
 description = "Hugo & Tailwindcss Starter"
-author = "zeon.studio"
+author = "Incerto Technologies Pvt Ltd"
 image = "images/og-image.png"
 
 

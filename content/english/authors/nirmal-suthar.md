@@ -17,5 +17,5 @@ social:
     link: https://www.linkedin.com/in/nirmal-suthar/
 ---
 
-Worked at Alphagrep.
+Worked at Alphagrep. 
 CSE IIT Kanpur.

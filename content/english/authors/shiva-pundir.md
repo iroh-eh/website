@@ -13,5 +13,5 @@ social:
     link: https://www.linkedin.com/in/shivapundir/
 ---
 
-Worked at Good Creator Company.
-CSE UVCE
+Worked at Good Creator Company. 
+CSE UVCE Bangalore.

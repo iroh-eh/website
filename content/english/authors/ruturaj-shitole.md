@@ -13,5 +13,5 @@ social:
     link: https://www.linkedin.com/in/rutu-sh/
 ---
 
-Worked at Syncron.
-CSE George Washington University
+Worked at Syncron. 
+CSE George Washington University.

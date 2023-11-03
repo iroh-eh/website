@@ -13,5 +13,5 @@ social:
     link: https://www.linkedin.com/in/nalla-siva-krishna-sai-a83a461a4/
 ---
 
-Worked at Alphagrep.
-ECE IIT Kharagpur
+Worked at Alphagrep. 
+ECE IIT Kharagpur.

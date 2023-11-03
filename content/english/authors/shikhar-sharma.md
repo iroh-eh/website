@@ -1,7 +1,7 @@
 ---
-title: Suhasini Tiwari
+title: Shikhar Sharma
 email: suhasini@incerto.in
-image: "/images/suhasini.jpg"
+image: "/images/shikhar.jpg"
 description: this is meta description
 social:
   - name: github
@@ -10,8 +10,10 @@ social:
 
   - name: linkedin
     icon: fa-brands fa-linkedin
-    link: https://www.linkedin.com/in/suhasini-tiwari-97574a212/
+    link: https://www.linkedin.com/in/shikhar-sharma-8291b7192/
 ---
 
-Worked at Google. CSE BITS Pilani
+Worked at Unicards.
+Bioengineering IIT Kanpur
+
 

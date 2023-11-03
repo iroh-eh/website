@@ -10,4 +10,4 @@ social:
 ---
 
 Worked at Alphagrep.
-CSE IIT Madras
+CSE IIT Madras.

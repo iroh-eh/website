@@ -14,4 +14,4 @@ social:
 ---
 
 Worked at Google.
-CSE BITS Pilani
+CSE BITS Pilani.

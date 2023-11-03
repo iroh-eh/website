@@ -1,7 +1,7 @@
 ---
 title: Avinash Pandey
 email: avinash@incerto.in
-image: "/images/avinash.png"
+image: "/images/avinash.jpg"
 description: this is meta description
 social:
   - name: github

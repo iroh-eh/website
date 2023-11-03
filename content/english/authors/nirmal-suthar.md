@@ -18,4 +18,4 @@ social:
 ---
 
 Worked at Alphagrep.
-CSE IIT Kanpur
+CSE IIT Kanpur.

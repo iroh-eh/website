@@ -31,15 +31,15 @@ name = "Team"
 url = "authors/"
 weight=3
 
-[[main]]
-parent = "Pages"
-name = "Categories"
-url = "categories/"
+# [[main]]
+# parent = "Pages"
+# name = "Categories"
+# url = "categories/"
 
-[[main]]
-parent = "Pages"
-name = "404 Page"
-url = "404/"
+# [[main]]
+# parent = "Pages"
+# name = "404 Page"
+# url = "404/"
 
 
 # footer menu
@@ -52,4 +52,3 @@ weight = 1
 name = "Elements"
 url = "elements/"
 weight = 2
-

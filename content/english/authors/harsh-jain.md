@@ -1,5 +1,5 @@
 ---
-title: Harsh Jain
+title: Jain Harsh
 email: harsh@incerto.in
 image: "/images/harsh.jpg"
 description: this is meta description

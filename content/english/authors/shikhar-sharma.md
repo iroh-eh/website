@@ -13,5 +13,5 @@ social:
     link: https://www.linkedin.com/in/shikhar-sharma-8291b7192/
 ---
 
-Worked at Uni Cards. 
+Worked at UniCards. 
 BioEngineering IIT Kanpur.

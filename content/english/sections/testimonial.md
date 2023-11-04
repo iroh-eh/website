@@ -8,7 +8,7 @@ testimonials:
   - name: "Kunal Singh"
     designation: "Co-Founder Discite Analytics & AI"
     avatar: "/images/kunal.jpg"
-    content: "I would highly recommend them. They bring very high ownership to the projects they work on with no followups are needed, and they are really good problem solvers so its easy to trust them with some critical issues you are facing."
+    content: "I would highly recommend them. They bring very high ownership to the projects they work on with no followups required, and they are really good problem solvers so its easy to trust them with some critical issues you are facing."
 
   - name: "Sunil Nair"
     designation: "Director Dhruv Technology Solutions"
@@ -16,9 +16,16 @@ testimonials:
     content: "This team has some rare skills with incredible flexibility and subject matter expertise. They have worked diligently to meet and exceed our expectations."
 
   - name: "Aditya Pushpati"
-    designation: "CEO Ving Hybrid Technologies"
+    designation: "CEO Ving"
     avatar: "/images/aditya.jpg"
-    content: "Never seen developers of this calibre understand the business and problems this well and goddd they were relentless."
+    # content: "Never seen developers of this calibre understand the business and problems this well and goddd they were relentless."
+    content: "Exceptional problem solvers! The team quickly grasped our intricate business needs, delivering ingenious solutions using Open Source frameworks. A game-changer for sure!"
+
+  - name: "Nikhil Kumar"
+    designation: "CTO Winkl"
+    avatar: "/images/nikhil.jpg"
+    # content: "Never seen developers of this calibre understand the business and problems this well and goddd they were relentless."
+    content: "Exceptional problem solvers! This tech company consistently impresses with their innovative solutions. They tackle complex challenges with precision and creativity. A game-changer for problem-solving!"
 
  # don't create a separate page
 _build:

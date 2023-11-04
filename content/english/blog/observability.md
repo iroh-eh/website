@@ -3,7 +3,7 @@ title: "Observability"
 meta_title: "observability"
 description: "observability"
 date: 2023-11-03T05:00:00Z
-image: "/images/image-placeholder.png"
+image: "/images/blog/observability.jpg"
 categories: ["Observability"]
 author: "Shiva Pundir"
 tags: ["observability", "grafana", "opentelemetry", "clickhouse"]
@@ -12,8 +12,7 @@ draft: false
 
 > our observability system lacked traces. MTTD was decent but MTTR was very high
 
-2. "loki exporter dropping chunks of logs"
-3. "correlating low cardinality telemetry data was difficult"
+2. "loki exporter dropping chunks of logs"ting low cardinality telemetry data was difficult"
 4. "vendor solution were very difficult to customize with unpredictable pricing"
 5. ""
 

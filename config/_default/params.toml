@@ -38,7 +38,7 @@ preloader = "" # use jpg, png, svg or gif format.
 # Navigation button
 [navigation_button]
 enable = true
-label = "get a quote"
+label = "Contact Us"
 link = "contact"
 
 # search
@@ -58,7 +58,7 @@ show_categories = true
 [metadata]
 keywords = ["Boilerplate", "Hugo"]
 description = "Hugo & Tailwindcss Starter"
-author = "zeon.studio"
+author = "Incerto Technologies Pvt Ltd"
 image = "images/og-image.png"
 
 

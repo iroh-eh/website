@@ -9,5 +9,5 @@ social:
     link: https://www.linkedin.com/in/krishna-sharma-02184a193/
 ---
 
-Worked at Alphagrep.
+Worked at Alphagrep. 
 CSE IIT Madras.

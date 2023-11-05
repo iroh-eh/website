@@ -13,5 +13,5 @@ social:
     link: https://www.linkedin.com/in/anurag-pandey-5a11ba113/
 ---
 
-Worked at Alphagrep.
-Theoretical CS CMI.
+Worked at Alphagrep. 
+Theoretical CS CMI Chennai.

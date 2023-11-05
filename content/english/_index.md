@@ -1,8 +1,9 @@
 ---
 # Banner
 banner:
-  title: "Got A Software Problem ?"
-  content: "We are compitetive coders, developers, problem solvers working to improve your business."
+  title: "Got a Software Problem ?"
+  # content: "We are compitetive coders, developers, problem solvers working to improve your business."
+  content: "We are a team of competitive coders, developers, and problem solvers dedicated to enhancing your business."
   image: "/images/banner.png"
   button:
     enable: true
@@ -11,17 +12,23 @@ banner:
 
 # Features
 features:
-  - title: "Tailer made Observability Solution"
-    image: "/images/service-1.png"
-    content: "We have implemented complete observability solution for Large Brokrage and Financial firms. Each organisation has its way of working and key SLOs and SLIs, we work closely to understand and solve."
+  - title: "Observability"
+    image: "/images/observability.jpg"
+    # content: "We have implemented complete observability solution for Large Brokrage and Financial firms. Each organisation has its way of working and key SLOs and SLIs, we work closely to understand and solve."
+    content: "We specialize in designing and executing end-to-end observability solutions tailored for large financial institutions. Our approach involves collaborating closely with these organizations to gain a deeper understanding of their operations and align our solutions with their specific SLIs and SLOs."
+    # bulletpoints:
+    #   - "Detect exact problem in distributed system in Minutes if not seconds"
+    #   - "Realtime Logs, Traces and Metrics"
+    #   - "Open Source Tools"
+    #   - "Zero monthly costs"
     bulletpoints:
-      - "Detect exact problem in distributed system in Minutes if not seconds"
-      - "Realtime Logs, Traces and Metrics"
-      - "Open Source Tools"
-      - "Zero monthly costs"
+      - Scalable vendor-agnostic open source solutions
+      - Zero monthly subscription fees
+      - Reduce MTTD & MTTR significantly
+      - Access to realtime telemetry data (Metrics, Logs and Traces)
     button:
       enable: true
-      label: "Checkout Obervability Blog"
+      label: "Checkout Observability Blog"
       link: "#"
 
   - title: "Linux Software Development"
@@ -36,7 +43,7 @@ features:
       label: "Checkout our linux solutions"
       link: "#"
 
-  - title: "Algorithm Optimizations"
+  - title: "Algorithm Optimization"
     image: "/images/service-3.png"
     content: "We have helped clients with criticial issues in the logic and infrastructre. We treat the problem as if we are loosing money."
     bulletpoints:

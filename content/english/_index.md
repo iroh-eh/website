@@ -7,7 +7,7 @@ banner:
   button:
     enable: true
     label: "Meet our team"
-    link: "https://github.com/zeon-studio/hugoplate"
+    link: "/website/authors"
 
 # Features
 features:
@@ -34,7 +34,7 @@ features:
     button:
       enable: true
       label: "Checkout our linux solutions"
-      link: "https://github.com/zeon-studio/hugoplate"
+      link: "#"
 
   - title: "Algorithm Optimizations"
     image: "/images/service-3.png"
@@ -46,5 +46,5 @@ features:
     button:
       enable: true
       label: "Checkout our algorithm solutions"
-      link: ""
+      link: "#"
 ---

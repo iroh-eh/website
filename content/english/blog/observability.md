@@ -34,8 +34,8 @@ Traces are the most modern telemetry data type, but also the most advanced of th
 
 #### \#1 Indian Brokerage Firm
 ##### Problem
-The client wanted an end-to-end observability solution tailored to their high-speed, low-latency infrastructure. This encompassed a diverse range of components, including on-cloud microservices written in Go, C++ & Python, on-prem microservices written in C++, as well as vendor-managed services like MSK, RDS, ElastiCache, and more. In addition, the solution was needed to be flexible enough to incorporate data from other telemetry nodes such as network devices, active directories, storage blobs etc.
-Few of the problems faced by the client in their own words:
+The client wanted an end-to-end observability solution tailored to their high-speed, low-latency infrastructure. This encompassed a diverse range of components, including on-cloud microservices written in Go, C++ & Python, on-prem microservices written in C++, as well as vendor-managed services like serverless, MSK, RDS, ElastiCache, and more. In addition, the solution was needed to be flexible enough to incorporate data from other telemetry nodes such as network devices, active directories, storage blobs etc.  
+A few of the problems faced by the client in their own words:
 - "our observability system lacked traces. MTTD was decent but MTTR was very high"    
 - "the loki exporter was dropping chunks of logs when the traffic was high"  
 - "correlating low cardinality telemetry data amongst different services was difficult"  
@@ -43,23 +43,23 @@ Few of the problems faced by the client in their own words:
 - "telemetry data retention for 10 years + quick aggregation"  
 ##### Solution
 We implemented a comprehensive solution leveraging only open source solutions, which was hosted on their own infrastructure. Our approach involved:
-
 - [OpenTelemetry](https://opentelemetry.io/) to instrument, generate, collect and export telemetry data.
 - [ClickHouse](https://clickhouse.com/) cluster to store and retain billions of rows of telemetry data.
-- [Grafana](https://grafana.com/) for visualization, analysis and alerting.  
+- [Grafana](https://grafana.com/) for visualization, analysis and alerting.
 
-We also built additional scripts in python to get telemetry data from AWS specific resources like ELB, MSK, RDS, ElastiCache etc
-
+We also built additional scripts in Python to get telemetry data from AWS specific resources like ELB, MSK, RDS, ElastiCache etc
+<br>
 
 #### \#2 American Financial Institution
 ##### Problem
+The client initially relied on a vendor-specific observability setup centered around Datadog. They utilized the Datadog agent for collection and export of telemetry data. However, due to the unpredictability of Datadog's pricing, they sought to transition toward a vendor-agnostic approach. Their plan involved prioritizing the migration of their EKS and RDS infrastructure in alignment with their specific requirements, with the intention to address other components subsequently.  
+A few excerpts from the conversation:
 - "we need to filter out telemetry data belonging to sensitive tables"    
 - "telemetry data from EU pods and replicas shouldn't be collected"
 - "redact PII to specific values from a set of lookup tables"
 - "additional metrics, which are specific to AWS, to be collected and pipelined"   
 ##### Solution
 We implemented a comprehensive solution leveraging only open source solutions, which was hosted on their own infrastructure. Our approach involved:
-
 - [OpenTelemetry](https://opentelemetry.io/) to instrument, generate, collect and export telemetry data.
-- [ClickHouse](https://clickhouse.com/) cluster to store and retain billions of rows of telemetry data.
-- [Grafana](https://grafana.com/) for visualization, analysis and alerting.  
+- [Cribl](https://cribl.io/) to parallely process, filter, aggregate large amounts of telemetry data.
+- [Datadog](https://www.datadoghq.com/) for visualization, analysis and alerting.  

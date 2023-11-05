@@ -6,30 +6,30 @@ name = "Home"
 url = "/"
 weight = 1
 
+[[main]]
+name = "Team"
+url = "authors/"
+weight=2
+
+[[main]]
+name = "Blog"
+url = "blog/"
+weight = 3
+
 #[[main]]
 #name = "About"
 #url = "about/"
 #weight = 2
 
-[[main]]
-weight = 4
-name = "More"
-hasChildren = true
+# [[main]]
+# weight = 4
+# name = "More"
+# hasChildren = true
 
-[[main]]
-parent = "More"
-name = "Blog"
-url = "blog/"
-
-[[main]]
-parent = "More"
-name = "Contact"
-url = "contact/"
-
-[[main]]
-name = "Team"
-url = "authors/"
-weight=3
+# [[main]]
+# parent = "More"
+# name = "Contact"
+# url = "contact/"
 
 # [[main]]
 # parent = "Pages"
@@ -42,12 +42,22 @@ weight=3
 # url = "404/"
 
 # footer menu
+# [[footer]]
+# name = "About"
+# url = "about/"
+# weight = 1
+
 [[footer]]
-name = "About"
-url = "about/"
+name = "Home"
+url = "/"
 weight = 1
 
 [[footer]]
 name = "Team"
 url = "authors/"
-weight = 1
+weight = 2
+
+[[footer]]
+name = "Blog"
+url = "blog/"
+weight = 3

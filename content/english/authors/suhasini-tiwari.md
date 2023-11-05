@@ -13,5 +13,5 @@ social:
     link: https://www.linkedin.com/in/suhasini-tiwari-97574a212/
 ---
 
-Worked at Google. 
+Google, Flipkart, Uber. 
 CSE BITS Pilani.

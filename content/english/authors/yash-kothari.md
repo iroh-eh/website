@@ -13,4 +13,5 @@ social:
     link: https://www.linkedin.com/in/captaindavinci/
 ---
 
-Worked at Atlassian. CSE UVCE Bangalore 
+Atlassian, SAP.
+CSE UVCE Bangalore 

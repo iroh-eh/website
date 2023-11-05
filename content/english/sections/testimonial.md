@@ -18,7 +18,7 @@ testimonials:
   - name: "Aditya Pushpati"
     designation: "CEO Ving"
     avatar: "/images/aditya.jpg"
-    content: "Exceptional problem solvers! The team quickly grasped our intricate business needs, delivering ingenious solutions using Open Source frameworks. A game-changer for sure!</br></br></br></br>"
+    content: "Meticulous. That's the word I would use to describe our engagment with Iroh. Their planning and attention to detail was commendable. The team looked into aspects that we missed and suggested the multiple options to choose from, in terms of approach to meet our product goals. Very professional and consultative."
 
  # don't create a separate page
 _build:

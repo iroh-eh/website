@@ -13,5 +13,5 @@ social:
     link: https://www.linkedin.com/in/hemantr05/
 ---
 
-Worked at Thomson Reuters. 
-CSE IISc Bangalore.
+Thomson Reuters. 
+CSE NMIT Bangalore.

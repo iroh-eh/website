@@ -8,7 +8,7 @@ banner:
   button:
     enable: true
     label: "Meet our team"
-    link: "https://github.com/zeon-studio/hugoplate"
+    link: "/website/authors"
 
 # Features
 features:

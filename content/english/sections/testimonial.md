@@ -1,31 +1,26 @@
 ---
 enable: true
-title: "What Users Are Saying About Hugoplate"
-description: "Don't just take our word for it - hear from some of our satisfied users!  Check out some of our testimonials below to see what others are saying about Hugoplate."
+title: "What they say about Incerto"
+description: "Don't just take our word for it - hear from some of our satisfied clients! Check out some of our testimonials below to see what others are saying about Incerto."
 
 # Testimonials
 testimonials:
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
-    avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+  - name: "Kunal Singh"
+    designation: "Co-Founder Discite Analytics & AI"
+    avatar: "/images/kunal.jpg"
+    content: "I would highly recommend them. They bring very high ownership to the projects they work on with no followups are needed, and they are really good problem solvers so its easy to trust them with some critical issues you are facing.</br></br></br>"
 
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
-    avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+  - name: "Sunil Naik"
+    designation: "Director Dhruv Technology Solutions"
+    avatar: "/images/sunil.jpg"
+    content: "This team has some rare skills with incredible flexibility and subject matter expertise. They have worked diligently to meet and exceed our expectations.</br></br></br></br>"
 
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
-    avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+  - name: "Aditya Pushpati"
+    designation: "CEO Ving Hybrid Technologies"
+    avatar: "/images/aditya.jpg"
+    content: "Meticulous. That's the word I would use to describe our engagment with Incerto. Their planning and attention to detail was commendable. The team looked into aspects that we missed and suggested the multiple options to choose from, in terms of approach to meet our product goals. Very professional and consultative."
 
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
-    avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
-
-# don't create a separate page
+ # don't create a separate page
 _build:
   render: "never"
 ---

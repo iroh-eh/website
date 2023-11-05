@@ -1,5 +1,5 @@
 ---
-title: Nimal Suthar
+title: Nirmal Suthar
 email: nirmal@incerto.in
 image: "/images/nirmal.jpg"
 description: this is meta description

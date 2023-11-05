@@ -13,5 +13,5 @@ social:
     link: https://www.linkedin.com/in/mrpandey360/
 ---
 
-Worked at Trilogy Innovations, Nutanix, Fampay. 
-MNC IIT Dhanbad.
+Trilogy Innovations, Nutanix, Fampay. 
+Maths&CSE IIT Dhanbad.

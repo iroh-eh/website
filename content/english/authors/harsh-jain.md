@@ -13,5 +13,5 @@ social:
     link: https://www.linkedin.com/in/harshj385/
 ---
 
-Worked at LTI Mindtree. 
+LTI Mindtree. 
 CSE NMIT Bangalore.

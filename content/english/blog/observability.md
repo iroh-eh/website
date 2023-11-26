@@ -3,7 +3,7 @@ title: "Observability"
 meta_title: "observability"
 description: "observability"
 date: 2023-11-03T05:00:00Z
-image: "/images/blog/observability.jpg"
+image: "/images/blog/grafanaScreenShot.png"
 categories: ["Observability"]
 author: "Shiva Pundir"
 tags: ["observability", "grafana", "opentelemetry", "clickhouse"]

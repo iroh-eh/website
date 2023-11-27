@@ -1,5 +1,5 @@
 ---
-title: "Comercial Linux Screen Casting"
+title: "Commercial Linux Screen Casting"
 meta_title: "Linux Screen Casting for Windows 10"
 description: "Roadmap to Linux Screen Casting"
 date: 2023-11-22T05:00:00Z

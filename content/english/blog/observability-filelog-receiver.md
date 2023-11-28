@@ -2,7 +2,7 @@
 title: "OpenTelemetry Filelog Receiver In Action"
 meta_title: "observability"
 description: "observability"
-date: 2023-11-27T00:00:00Z
+date: 2023-11-25T00:00:00Z
 image: "/images/blog/opentelemetry.png"
 categories: ["Observability"]
 author: "Shiva Pundir"
@@ -12,8 +12,11 @@ draft: false
 
 <br>
 
+### Introduction
 One of the key components of observability is the ability to collect logs effectively. [OpenTelemetry Collector](https://github.com/open-telemetry/opentelemetry-collector-contrib/tree/main) makes this task easier with its [Filelog receiver](https://github.com/open-telemetry/opentelemetry-collector-contrib/tree/main/receiver/filelogreceiver), which allows you to ingest logs from files and integrate them into your observability pipeline.
 
+
+### Configuration
 Install OpenTelemetry Collector from [here](https://opentelemetry.io/docs/collector/installation/). 
 
 Lets try to read and ingest logs from a file `service.log`, to which a service is writing its logs. A snippet from the log might look something like this:

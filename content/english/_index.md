@@ -15,14 +15,14 @@ features:
     image: "/images/service-2.png"
     content: "We specialize in designing and executing end-to-end observability solutions tailored for large financial institutions. Our approach involves collaborating closely with these organizations to gain a deeper understanding of their operations and align our solutions with their specific SLIs and SLOs."
     bulletpoints:
-      - Scalable vendor-agnostic open source solutions
-      - Zero monthly subscription fees
-      - Reduce MTTD & MTTR significantly
-      - Access to realtime telemetry data (Metrics, Logs and Traces)
+      - "Scalable vendor-agnostic open source solutions"
+      - "Zero monthly subscription fees"
+      - "Reduce MTTD & MTTR significantly"
+      - "Access to realtime telemetry data (Metrics, Logs and Traces)"
     button:
       enable: true
       label: "Checkout Observability Blog"
-      link: "blog/observability/"
+      link: "categories/observability/"
 
   - title: "Linux Software Development"
     image: "/images/service-1.png"
@@ -31,10 +31,10 @@ features:
       - "Custom software from scratch"
       - "Networks, SoundCards, Drivers, WiFi Direct, Switches and more"
       - "CI/CD, Containarization, Scaling"
-    # button:
-    #   enable: true
-    #   label: "Checkout our linux solutions"
-    #   link: "#"
+    button:
+       enable: true
+       label: "Checkout linux Blog"
+       link: "blog/linux-screen-casting/"
 
   - title: "Algorithm Optimization"
     image: "/images/service-3.png"
@@ -43,7 +43,7 @@ features:
       - "Latency optimization"
       - "Optimizing for cloud costs"
       - "Fix your money leaking logic"
-    # button:
+    #button:
     #   enable: true
     #   label: "Checkout our algorithm solutions"
     #   link: "#"

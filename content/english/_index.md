@@ -38,7 +38,7 @@ features:
 
   - title: "Algorithm Optimization"
     image: "/images/service-3.png"
-    content: "We have helped clients with criticial issues in the logic and infrastructre. We treat the problem as if we are loosing money."
+    content: "We have helped clients with criticial issues in the logic and infrastructre. We treat the problem as if we are losing money.";
     bulletpoints:
       - "Latency optimization"
       - "Optimizing for cloud costs"

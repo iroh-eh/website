@@ -36,7 +36,7 @@ features:
       label: "Checkout linux Blog"
       link: "blog/linux-screen-casting/"
 
-  - title: "Algorithm Optimzation"
+  - title: "Algorithm Optimization"
     image: "/images/service-3.png"
     content: "We have helped clients with criticial issues in the logic and infrastructre. We treat the problem as if we are losing money"
     bulletpoints:

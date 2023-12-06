@@ -42,7 +42,7 @@ features:
     bulletpoints:
       - "Latency optimization"
       - "Optimizing for cloud costs"
-      - "Fix You money leaking logic"
+      - "Fix your money leaking logic"
     button:
       enable: false
     # label: "Checkout linux Blog"

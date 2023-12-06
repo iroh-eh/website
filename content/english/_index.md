@@ -32,7 +32,7 @@ features:
       - "Networks, SoundCards, Drivers, WiFi Direct, Switches and more"
       - "CI/CD, Containarization, Scaling"
     button:
-      enable: false
+      enable: true
       label: "Checkout linux Blog"
       link: "blog/linux-screen-casting/"
 

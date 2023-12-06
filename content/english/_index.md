@@ -32,17 +32,29 @@ features:
       - "Networks, SoundCards, Drivers, WiFi Direct, Switches and more"
       - "CI/CD, Containarization, Scaling"
     button:
-       enable: true
-       label: "Checkout linux Blog"
-       link: "blog/linux-screen-casting/"
+      enable: false
+      label: "Checkout linux Blog"
+      link: "blog/linux-screen-casting/"
 
-  - title: "Algorithm Optimization"
+  - title: "Algorithm Optimzation"
     image: "/images/service-3.png"
-    content: "We have helped clients with criticial issues in the logic and infrastructre. We treat the problem as if we are losing money.";
+    content: "We have helped clients with criticial issues in the logic and infrastructre. We treat the problem as if we are losing money"
     bulletpoints:
       - "Latency optimization"
       - "Optimizing for cloud costs"
-      - "Fix your money leaking logic"
+      - "Fix You money leaking logic"
+    button:
+      enable: false
+    # label: "Checkout linux Blog"
+    #  link: "blog/linux-screen-casting/"
+
+  #- title: "Algorithm Optimization"
+  #  image: "/images/service-3.png"
+  #  content: "We have helped clients with criticial issues in the logic and infrastructre. We treat the problem as if we are losing money.";
+  #  bulletpoints:
+  #    - "Latency optimization"
+  #   - "Optimizing for cloud costs"
+  #    - "Fix your money leaking logic"
     #button:
     #   enable: true
     #   label: "Checkout our algorithm solutions"

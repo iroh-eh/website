@@ -3,7 +3,7 @@ title: "Custom Obseravability : Alternative to Rigid SaaS products"
 meta_title: "Custom observability"
 description: "Custome observability is a tailored Observability solution for institutions need"
 date: 2023-12-05T05:00:00Z
-image: "/images/Custom.jpg"
+image: "/images/kid.jpg"
 categories: ["Observability"]
 author: "Anurag Pandey"
 tags: ["observability", "grafana", "opentelemetry", "clickhouse"]

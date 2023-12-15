@@ -28,7 +28,7 @@ It comprises of three parts :
 There are lot of existing solutions e.g. Datadog, Splunk, Signoz, Dynatrace. Common practice among all is charging on the usage of their products i.e logs ingested, hosts, users and monthly and more.
 > **Imagine if shoes were free but you had to pay for each step in them!**
 
-All the tools required to achieve an awesome in-house observability solution are opensource : [OpenTelemetry](https://github.com/orgs/open-telemetry/repositories), [ClickHouse](https://github.com/ClickHouse/ClickHouse) and [Grafana](https://github.com/grafana/grafana) (More than **100000 Stars On Github**).
+All the tools required to achieve an awsome in-house observability solution are opensource : [OpenTelemetry](https://github.com/orgs/open-telemetry/repositories), [ClickHouse](https://github.com/ClickHouse/ClickHouse) and [Grafana](https://github.com/grafana/grafana) (More than **100000 Stars On Github**).
 We are there to help you with the _technical debt_ to bring it home!
 
 ### Benifits of Custom Observability

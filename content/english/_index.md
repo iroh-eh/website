@@ -1,13 +1,15 @@
 ---
 # Banner
 banner:
-  title: "Got a Software Problem ?"
-  content: "We are a team of developers and problem solvers dedicated to enhancing your business."
+  #title: "Got a Software Problem ?"
+  #content: "We are a team of developers and problem solvers dedicated to enhancing your business."
+  title: "Experience Custom Observability"
+  content: "Uncover insights, optimize performance, and gain unparalleled visibility into your infrastructure - all without breaking the bank"
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Meet our team"
-    link: "authors/"
+    label: "Book Demo"
+    link: "contact/"
 
 # Features
 features:

@@ -8,8 +8,8 @@ banner:
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Alternative to Rigid SaaS"
-    link: "blog/observability-custom/"
+    label: "Discover How"
+    link: "blog/observability-case-study-brokerage-firm/"
 
 # Features
 features:

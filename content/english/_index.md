@@ -28,11 +28,11 @@ features:
 
   - title: "Linux Software Development"
     image: "/images/service-1.png"
-    content: "We have helped multiple clients to get an edge over their competition by developing superior linux software in demanding time constraints. We research OSS to the fullest paired with clever problem sovling."
+    content: "We have helped multiple clients to get an edge over their competition by developing superior linux software in demanding time constraints. We research OSS to the fullest paired with clever problem solving."
     bulletpoints:
       - "Custom software from scratch"
       - "Networks, SoundCards, Drivers, WiFi Direct, Switches and more"
-      - "CI/CD, Containarization, Scaling"
+      - "CI/CD, Containerization, Scaling"
     button:
       enable: true
       label: "Checkout linux Blog"
@@ -40,7 +40,7 @@ features:
 
   - title: "Algorithm Optimization"
     image: "/images/service-3.png"
-    content: "We have helped clients with criticial issues in the logic and infrastructre. We treat the problem as if we are losing money"
+    content: "We have helped clients with critical issues in the logic and infrastructure. We treat the problem as if we are losing money"
     bulletpoints:
       - "Latency optimization"
       - "Optimizing for cloud costs"
@@ -52,7 +52,7 @@ features:
 
   #- title: "Algorithm Optimization"
   #  image: "/images/service-3.png"
-  #  content: "We have helped clients with criticial issues in the logic and infrastructre. We treat the problem as if we are losing money.";
+  #  content: "We have helped clients with critical issues in the logic and infrastructure. We treat the problem as if we are losing money.";
   #  bulletpoints:
   #    - "Latency optimization"
   #   - "Optimizing for cloud costs"

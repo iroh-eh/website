@@ -85,4 +85,4 @@ The above tells us about the supported modes. Normally, when we are connected to
 
 The above snippet tells us that we can be in `managed` mode and `(P2P-client or P2-GO)` and `P2P device` at the same time. But how is it possible? That happens using the `Network Namespace`.
 
-But wait, what if Airplay intereferes with our work? How do we make sure it is unaffected and can work in parallel? How can we connect multiple Windows devices? And what even is P2P? We will cover all of it in our next blog.
+But wait, what if Airplay interferes with our work? How do we make sure it is unaffected and can work in parallel? How can we connect multiple Windows devices? And what even is P2P? We will cover all of it in our next blog.

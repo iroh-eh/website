@@ -18,11 +18,11 @@ testimonials:
   - name: "Aditya Pushpati"
     designation: "CEO Ving"
     avatar: "/images/aditya.jpg"
-    content: "Meticulous. That's the word I would use to describe our engagment with Incerto Technologies. Their planning and attention to detail was commendable. The team looked into aspects that we missed and suggested the multiple options to choose from, in terms of approach to meet our product goals. Very professional and consultative. </br></br></br>"
+    content: "Meticulous. That's the word I would use to describe our engagement with Incerto Technologies. Their planning and attention to detail was commendable. The team looked into aspects that we missed and suggested the multiple options to choose from, in terms of approach to meet our product goals. Very professional and consultative. </br></br></br>"
 
   - name: "Vishal Sharma"
     designation: "CEO Nuvo Retail"
-    avatar: "/images/VishalNuvo.jpg"
+    avatar: "/images/vishal.jpg"
     content: "Incerto has been instrumental in our app development efforts. Their expertise in software architecture has significantly improved our application. With a keen eye for detail, they addressed and resolved security issues, maintaining a strong and secure codebase. Incerto's consultative approach makes them our preferred choice for tackling software challenges. Highly recommended for their proficiency and dedication!"
  # don't create a separate page
 _build:

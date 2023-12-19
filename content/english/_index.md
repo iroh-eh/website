@@ -3,7 +3,7 @@
 banner:
   #title: "Got a Software Problem ?"
   #content: "We are a team of developers and problem solvers dedicated to enhancing your business."
-  title: "Own your Observability: 85% cost cut. 100% control."
+  title: "Own your Observability</br>85% cost cut 100% control."
   content: "Break free from vendor lock-ins and say YES to the future of enterprise observability."
   image: "/images/banner.png"
   button:

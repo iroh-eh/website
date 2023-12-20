@@ -12,7 +12,7 @@ draft: false
 
 <br>
 
-### Problem Statement
+### **Problem Statement**
 The client had a custom operating system built on top of the Debian distro (called VingOS), which ran on an Intel NUC. Any Apple device was able to screen cast onto VingOS seamlessly. The client wanted to extend the same support for Windows too. As this was a commercial product, ensuring user-friendliness and seamless integration with other existing VingOS applications was crucial. Team Ving was looking for the following features:
 - Connection (time taken for the screen to appear on the sink after clicking the connect button in Windows) time < 4 secs.
 - Instant Disconnection.
@@ -25,7 +25,7 @@ The client had a custom operating system built on top of the Debian distro (call
 
 
 
-### Screencasting Interface in Windows ?
+### **Screencasting Interface in Windows ?**
 
 Windows has out-of-box support for casting screens. It implements the [Miracast](https://www.wi-fi.org/discover-wi-fi/miracast) specification. Great! So all we needed was to have Miracast complaint sink.
 Source: The device whose screen is being casted.
@@ -50,7 +50,7 @@ After a successful connection, Windows shows the following options:
 Windows as per Miracast Specification supports complete Wifid connection. Additionally, it also supports [MS-MICE](https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-mice/9598ca72-d937-466c-95f6-70401bb10bdb) (over infrastructure). User can't really see any difference between two as the interface to connect remains the same. Miraclecast had no support for MICE, but Lazycast has. To understand what Miraclecast and Lazycast have to offer, let's explore the Linux components that are important. 
 
 
-### How does screencasting work ft. Miracast Specification
+### **How does screencasting work ft. Miracast Specification**
 
 Screen casting can be broken down into the following stages:
 - **Establishing connection** : Includes discovery of a Linux device on the Windows Miracast Interface (done through the P2P protocol), followed by connection between devices (either P2P or MS-MICE). After this phase is over, two devices have a duplex socket connection and can therefore exchange data. An [RTSP Session](https://en.wikipedia.org/wiki/Real_Time_Streaming_Protocol) is started.

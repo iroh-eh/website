@@ -18,15 +18,15 @@ The client, a leading brokerage firm in India, grappled with intricate observabi
 
 <br>
 
-## Solution
-### Custom observability powered by OSS (OpenTelemetry) built on the client’s infrastructure
+## **Solution**
+### **Custom observability powered by OSS (OpenTelemetry) built on the client’s infrastructure**
 - Leveraging OpenTelemetry, we systematically instrumented, generated, collected, and exported telemetry data. This meticulous approach addressed the tracing gaps, significantly reducing Mean Time to Recovery (MTTR) from hours to minutes, thus enhancing overall system reliability.
 - Introducing a robust ClickHouse cluster, we overcame the challenge of scaling and retaining telemetry data. Now, the brokerage firm can store billions of rows efficiently, ensuring quick and reliable access to historical data for SIEM compliance needs. 
 - Incorporated Grafana for visualization, analysis, and alerting. This not only simplified the interpretation of telemetry data but also empowered proactive decision-making, mitigating challenges in correlating low cardinality telemetry data across various services.
 
 <br>
 
-## Impact
+## **Impact**
 - Reduced costs: Slashed IT costs by 85% (One-time turnkey implementation, hence no recurring subscription fees).
 - High efficiency: MTTR reduction from hours to minutes.
 - Customized insights: Tailored team dashboards for C-Level, Product, and Developer verticals and status page for clients.
@@ -34,7 +34,7 @@ The client, a leading brokerage firm in India, grappled with intricate observabi
 
 <br>
 
-## Say goodbye to costly subscriptions
+## **Say goodbye to costly subscriptions**
 Experience vendor-agnostic excellence at a fraction of the cost.
 
 <br>

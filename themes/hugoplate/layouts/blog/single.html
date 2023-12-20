@@ -1,7 +1,7 @@
 {{ define "main" }}
   <section class="section pt-7">
-    <div class="container">
-      <div class="row justify-center">
+    <div class="container"> 
+	 <div class="row justify-center">
         <article class="lg:col-10">
           <h1 class="h2 mb-4">
             {{ .Title }}
@@ -32,7 +32,7 @@
               {{ time.Format ":date_long" .PublishDate }}
             </li>
           </ul>
-          <div class="content mr-4 mb-10">
+          <div class="content mb-10">
             {{ .Content }}
           </div>
           

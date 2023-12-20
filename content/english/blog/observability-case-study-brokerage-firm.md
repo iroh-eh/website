@@ -12,8 +12,8 @@ draft: false
 
 <br>
 
-## Challenge
-### Grappling with high volumes, inadequate retention, and compliance gaps
+## **Challenge**
+### **Grappling with high volumes, inadequate retention, and compliance gaps**
 The client, a leading brokerage firm in India, grappled with intricate observability challenges inherent in high volumes of trade. Existing solutions fell short in critical areas, from tracing capabilities to recovery times, impacting operational efficiency. With no single observability solution meeting all requirements, vendor scaling was difficult and expensive. The demand for scalability, log processing struggled during peak traffic hours, and stringent compliance standards further intensified the need for a transformative observability solution.
 
 <br>

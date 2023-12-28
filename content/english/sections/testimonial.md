@@ -6,7 +6,7 @@ description: "Don't just take our word for it - hear from some of our satisfied 
 # Testimonials
 testimonials:
   - name: "Pranav Khambayatkar"
-    designation: "Seniour VP Engineering at Fyers"
+    designation: "Senior VP Engineering at Fyers"
     avatar: "/images/pranav.jpg"
     content: "Incerto has been a great help in transforming Fyers observability landscape. Their end-to-end implementation with open source technologies provided meaningful insights into our infrastructure. Real-time observability and proactive alerting mitigated issues swiftly, reducing MTTR (Mean time to resolve) significantly. Crucially, Incerto ensured seamless SIEM compliance and delivered a highly customized solution tailored to our unique needs. Resolving pain points unaddressed by other vendors showcased their commitment to client success. We highly recommend Incerto team to organizations seeking a revolutionary observability partner."
   - name: "Kunal Singh"
